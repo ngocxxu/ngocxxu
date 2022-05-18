@@ -9,5 +9,5 @@
 - ⚡ Fun fact: Time is a gold
 - 
  <a href="#">
-    <img src="https://cdn.tgdd.vn/2020/04/GameApp/unnamed-200x200-32.png" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
