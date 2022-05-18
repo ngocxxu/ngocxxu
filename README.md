@@ -9,5 +9,5 @@
 - ⚡ Fun fact: Time is a gold
 - 
  <a href="#">
-    <img src="[help/badge1.svg](https://www.figma.com/file/eJC6pBs4faQ4hu5cr0MUSB/badges?node-id=2%3A527)" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://cdn.tgdd.vn/2020/04/GameApp/unnamed-200x200-32.png" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
