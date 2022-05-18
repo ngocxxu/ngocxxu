@@ -14,7 +14,7 @@
   </a>  
   
 - :muscle: Sometimes I practise and storage my code on:  
----> <p align="left">
+ <p align="left">
    <a href="https://www.hackerrank.com/ngocquach43">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
