@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NEXON
-- 🌱 I’m currently learning ReactJS and coming soon I will learn more about NodeJS
+- 🔭 I’m currently working as ReactJS Developer at NEXON
+- 🌱 I’m currently learning NodeJS and want to know more about server-side
 - 👯 I’m looking to collaborate on VietNam
 - 🤔 I’m looking for help with if any problem about my code
 - 💬 Ask me if you want to know more about me
