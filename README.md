@@ -1,29 +1,36 @@
-### Hi there 👋
+# 👋 Hi there, I'm Ngoc Quach
 
-- 🔭 I’m currently working as ReactJS Developer at NEXON
-- 🌱 I’m currently learning NodeJS and want to know more about server-side
-- 👯 I’m looking to collaborate on VietNam
-- 🤔 I’m looking for help with if any problem about my code
-- 💬 Ask me if you want to know more about me
+## 👨‍💻 About Me
 
-- ⚡ Fun fact: Time is a gold
+🚀 Fullstack Developer at ST Engineering, on a mission to conquer the entire tech stack!
 
-- 📫 How to reach me: 
- <a href="https://www.linkedin.com/in/ngoc-quach-17397620a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
-  
-- :muscle: Sometimes I practise and storage my code on:  
- <p align="left">
-   <a href="https://www.hackerrank.com/ngocquach43">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
-    <a href="https://www.codewars.com/users/ngocxxu">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>
-     <a href="https://codepen.io/ngocxxu">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
+🌱 Diving deep into the DevOps ocean while nurturing my server-side skills
+
+🤝 Eager to collaborate on innovative projects that push the boundaries of technology in Global
+
+⚡ Fun fact: I don't just write code, I orchestrate digital symphonies where every line is a note, and every function is a movement!
+
+🕰️ Philosophy: Time isn't just money, it's the gold that forges the future of tech
+
+🎯 2025 Goal: Evolve into a Fullstack + DevOps maestro, harmonizing development and operations into a technological masterpiece
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ngocxxu&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngoc-quach-17397620a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngocquach43@gmail.com)
+
+## 💪 Coding Profiles
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ngocquach43)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ngocxxu)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ngocxxu)
+
+---
+
+<p align="center">
+  Made with ❤️ and ☕ by Ngoc Quach
 </p>
- 
-
