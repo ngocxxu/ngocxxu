@@ -12,7 +12,7 @@
 
 🕰️ Philosophy: Time isn't just money, it's the gold that forges the future of tech
 
-🎯 2025 Goal: Evolve into a Fullstack + DevOps maestro, harmonizing development and operations into a technological masterpiece
+🎯 2026 Goal: Evolve into a Fullstack + DevOps maestro, harmonizing development and operations into a technological masterpiece
 
 ## 📊 GitHub Stats
 
