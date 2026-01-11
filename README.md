@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ngoc Quach
+# 👋 Hi there, I'm Ngoc Quach (Bono)
 
 ## 👨‍💻 About Me
 
