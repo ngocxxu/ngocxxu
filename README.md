@@ -20,11 +20,11 @@ I'm a Fullstack Developer currently focused on Backend Engineering and DevOps.
 
 My engineering journey started from frontend development, but over time I became deeply interested in:
 
-- scalable backend systems
-- distributed architectures
-- infrastructure automation
+- Scalable backend systems
+- Distributed architectures
+- Infrastructure automation
 - DevOps & platform engineering
-- production reliability
+- Production reliability
 
 ---
 
@@ -69,12 +69,6 @@ Currently learning and improving in:
 # 📈 Contribution Graph
 
 [![Ngoc's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ngocxxu&theme=tokyo-night)](https://github.com/ngocxxu)
-
----
-
-# ⚡ Philosophy
-
-> "Build systems that are not only scalable in code, but also reliable in operations."
 
 ---
 
