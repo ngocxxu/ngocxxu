@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ngoc Quach (Bono)</h1>
 
 <p align="center">
-  Fullstack Engineer • Backend & DevOps Enthusiast • Distributed Systems Explorer
+  Fullstack Engineer • Backend & AI Enthusiast • Distributed Systems Explorer
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 # 🚀 About Me
 
-I'm a Fullstack Developer currently focused on Backend Engineering and DevOps.
+I'm a Fullstack Developer currently focused on Backend Engineering and AI Engineering.
 
 My engineering journey started from frontend development, but over time I became deeply interested in:
 
